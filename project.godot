@@ -11,4 +11,10 @@ config_version=5
 [application]
 
 config/name="ExpeditionHero"
+run/main_scene="uid://dqapo2bbpopb6"
 config/features=PackedStringArray("4.5", "Forward Plus")
+
+[autoload]
+
+GameState="*res://FileSystem/core/GameState.gd"
+WorldState="*res://FileSystem/core/WorldState.gd"
