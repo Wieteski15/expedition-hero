@@ -1,0 +1,14 @@
+[gd_resource type="Resource" script_class="ClassesHero" load_steps=2 format=3 uid="uid://blkgcaosxrvyf"]
+
+[ext_resource type="Script" uid="uid://4x2ttwde6vrr" path="res://FileSystem/data/Classes/ClassesHero.gd" id="1_6e14t"]
+
+[resource]
+script = ExtResource("1_6e14t")
+Name = "Wojownik"
+max_hp = 50
+hp = 50
+max_mp = -20
+mp = -20
+attack = 5
+defense = 5
+metadata/_custom_type_script = "uid://4x2ttwde6vrr"

@@ -1,0 +1,21 @@
+[gd_resource type="Resource" script_class="HeroData" load_steps=3 format=3 uid="uid://bs6ceu5svndhc"]
+
+[ext_resource type="Resource" uid="uid://blkgcaosxrvyf" path="res://FileSystem/data/Classes/Wojownik.tres" id="1_bm5wd"]
+[ext_resource type="Script" uid="uid://bxo8xwm3vg3au" path="res://FileSystem/data/Hero/Hero.gd" id="1_jjk6u"]
+
+[resource]
+script = ExtResource("1_jjk6u")
+id = null
+display_name = null
+classes = ExtResource("1_bm5wd")
+max_hp = null
+hp = null
+max_mp = null
+mp = null
+attack = null
+defense = null
+speed = null
+eq = null
+crit_chance = null
+crit_damage = null
+metadata/_custom_type_script = "uid://bxo8xwm3vg3au"
